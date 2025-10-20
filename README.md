@@ -1,0 +1,1 @@
+A FastAPI app that fetches images from school Physics Telegram group, uploads them to IMGBB, caches metadata on GitHub, and displays a scrollable web gallery. Supports captions, sender info, and automatic cache updates for efficient image management and viewing.
